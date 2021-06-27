@@ -1,0 +1,19 @@
+{
+    "appName": "Todo",
+    "create": "Create",
+    "update": "Update",
+    "create_todo": "Create Todo",
+    "update_todo": "Update Todo",
+    "alarm_time": "Alarm Time: ",
+    "title_hint": "Please input title",
+    "content_hint": "Please input content",
+    "tips": "tips",
+    "delete_todo_message": "Confirm delete todo?",
+    "delete_image_message": "Confirm delete image?",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "select_image": "Click to select image",
+    "camera": "Camera",
+    "album": "Album",
+    "notification_title": "You have a todo in five minutes!"
+}

@@ -1,0 +1,19 @@
+{
+    "appName": "待办",
+    "create": "添加",
+    "update": "更新",
+    "create_todo": "新建待办",
+    "update_todo": "更新待办",
+    "alarm_time": "提醒时间：",
+    "title_hint": "请输入标题",
+    "content_hint": "请输入内容",
+    "tips": "提示",
+    "delete_todo_message": "确认删除Todo吗?",
+    "delete_image_message": "确认删除照片吗？",
+    "ok": "确定",
+    "cancel": "取消",
+    "select_image": "点击选择照片",
+    "camera": "相机",
+    "album": "相册",
+    "notification_title": "5分钟后你有一个待办!"
+}
